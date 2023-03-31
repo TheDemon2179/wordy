@@ -1,14 +1,19 @@
 # wordy
 Game generated using Bing AI.
 
+---
+
 Its goal is to select 10 random words from a giant dictionary and the player must write them as quickly and accurately as possible. 
 
 After that, their speed, number of errors and time spent are displayed. It’s pretty cool.
 
 Preview:
+
 ![image](https://user-images.githubusercontent.com/55982815/229198838-7fde3a97-5afe-46be-a0bf-26eab62f153b.png)
 
 Also only russian language are supported (atleast for now).
+
+---
 
 Why would you need this game? (strange question, but ok)
 
